@@ -30,6 +30,7 @@
 
 ## 📢 News
 
+- **[2026-05-01]** Full rendered footage and evaluation code for reproducing Table 2 & Table 3 are now available for [download](https://drive.google.com/drive/folders/1Uonhe30rX0eu2EWa6ObL7LLRoSUArez3?usp=sharing)!
 - **[2026-01-19]** LiteReality code is out! Test it with the example scans ([Instruction](#2-download-example-scans), [results visualization](#-results-on-example-scans)), or [your own scans](#test-on-your-own-scans)! 
 - **[2025-09-18]** LiteReality has been accepted at NeurIPS 2025!
 - **[2025-07-03]** Our paper is now available on [arXiv](https://arxiv.org/abs/2507.02861)! Check out the [video demo](https://www.youtube.com/watch?v=ecK9m3LXg2c).
@@ -43,6 +44,9 @@ We tested this codebase with several example scans; here are some of the results
 | [![Girton Study Room](https://img.youtube.com/vi/pD06w2lUZZM/0.jpg)](https://www.youtube.com/watch?v=pD06w2lUZZM) | [![Darwin BedRoom](https://img.youtube.com/vi/fXzUqLkk2FQ/0.jpg)](https://www.youtube.com/watch?v=fXzUqLkk2FQ) | [![CUED BoardRoom](https://img.youtube.com/vi/Ku8fVaQy-8I/0.jpg)](https://www.youtube.com/watch?v=Ku8fVaQy-8I) |
 | Girton Study Room 2 | Girton Common Room | SigProc Tea Room |
 | [![Girton Study Room 2](https://img.youtube.com/vi/8RuTVrQ_oMI/0.jpg)](https://www.youtube.com/watch?v=8RuTVrQ_oMI) | [![Girton Common Room](https://img.youtube.com/vi/obAVOYMZBSI/0.jpg)](https://www.youtube.com/watch?v=obAVOYMZBSI) | [![SigProc Tea Room](https://img.youtube.com/vi/IJguTZLKZAE/0.jpg)](https://www.youtube.com/watch?v=IJguTZLKZAE) |
+
+## Benchmarking 
+> **Reproducing Paper Results (Table 2 & Table 3):** To reproduce the quantitative results reported in Table 2 and Table 3 of the paper, please download the full rendered footage and evaluation code [here](https://drive.google.com/drive/folders/1Uonhe30rX0eu2EWa6ObL7LLRoSUArez3?usp=sharing).
 
 ---
 
